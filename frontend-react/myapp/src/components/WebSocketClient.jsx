@@ -3,8 +3,8 @@ import './WebSocketClient.css';
 
 const WebSocketClient = () => {
     // Hostname for WebSocket connections
-    //const hostName = "localhost";
-    const hostName = "35.208.226.141";
+    const hostName = "localhost";
+    //const hostName = "35.208.226.141";
     // Refs for displaying messages
     const divVoiceRef = useRef(null);
     const divTranscriptRef = useRef(null);

@@ -1,0 +1,9 @@
+frontend-react/myapp/dist
+frontend-react/myapp/node_modules/
+frontend-react/myapp/nohup.out
+frontend-react/myapp/pid-www
+frontend-react/myapp/webserver.log
+server/__pycache__/
+server/*.log
+server/pid*
+.DS_Store
