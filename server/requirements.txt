@@ -1,0 +1,16 @@
+crewai 
+crewai_tools
+docx
+dotenv
+fastapi
+faster-whisper
+langchain_community
+langchain_openai
+langchain_openai
+openai
+pydantic
+python-dotenv
+scipy
+sounddevice
+uvicorn
+whisper
